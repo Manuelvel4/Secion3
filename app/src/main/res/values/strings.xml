@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+        <string name="question">question</string>
+        <string name="check">check</string>
+
+        <string name="Correct">Correct</string>
+        <string name="Mistake">Mistake</string>
+        // tabla de strings
+
+    <array name="all_question">
+
+        <item> what is the capital of Ecuador?; Quito ; Tsunami ; Sucre; Ambato;</item>
+        <item>Pregunta 2 ; a;b;c;d;</item>
+    </array>
+
+
+    </resources>
