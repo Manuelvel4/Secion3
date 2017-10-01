@@ -13,9 +13,9 @@
 
     <array name="all_question">
 
-        <item> what is the capital of Ecuador?; Quito ; Tsunami ; Sucre; Ambato;</item>
-        <item>Capital de Holanda ; Amsterdam;Madrid;cdjdj;hola;</item>
-        <item>What is the capital of Spain?; Madrid; Barcelona; Canarias; Francia</item>
+        <item> what is the capital of Ecuador?; fQuito ; Tsunami ; Sucre; Ambato;</item>
+        <item>Capital de Holanda ; fAmsterdam;Madrid;cdjdj;hola;</item>
+        <item>What is the capital of Spain?; fMadrid; Barcelona; Canarias; Francia</item>
     </array>
 
 

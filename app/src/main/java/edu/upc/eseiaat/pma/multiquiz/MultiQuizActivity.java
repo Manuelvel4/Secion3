@@ -139,8 +139,7 @@ public class MultiQuizActivity extends AppCompatActivity {
         for(int i=0 ; i <ids_answers.length ; i++){
             RadioButton ans1 = (RadioButton) findViewById(ids_answers[i]);
             String answers = parts[i+1];
-            if (answers.charAt(0) == 'Q'){
-
+            if (answers.charAt(0) == 'f'){
                 correct_answer = i;
                 answers = answers.substring(1);
             }
